@@ -1,0 +1,15 @@
+
+.app-header {
+    background-color: #ef5350; 
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+  }
+  
+  .app-header h1 {
+    margin: 0;
+    font-size: 1.8em;
+    font-family: 'Pokemon Solid', sans-serif;
+    letter-spacing: 2px;
+  }
